@@ -16,8 +16,6 @@ And it's your job to build it.
 
 - [Fork this repo](https://github.com/DeividZavala/PP-React-IronNutrition)
 - Clone this repo into your `~/code/labs`
-#- You must use at least 1 of each of the following:
-#  - `component`
 
 In the starter code, we've provided a list of foods in the form of an array of objects.
 
